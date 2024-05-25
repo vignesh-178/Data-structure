@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include <stdlib.h>q
+#include <stdlib.h>
 
 // Creating a node
 struct node {
